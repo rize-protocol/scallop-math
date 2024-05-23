@@ -1,4 +1,4 @@
-module scallop_math::u256 {
+module 0xad013d5fde39e15eabda32b3dbdafd67dac32b798ce63237c27a8f73339b9b6f::u256 {
 
   const DIVIDE_BY_ZERO: u64 = 1002;
   const CALCULATION_OVERFLOW: u64 = 1003;

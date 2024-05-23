@@ -1,7 +1,7 @@
 /***
 This is the helper module for std::fixed_point32
 */
-module scallop_math::fixed_point32_empower {
+module 0xad013d5fde39e15eabda32b3dbdafd67dac32b798ce63237c27a8f73339b9b6f::fixed_point32_empower {
   use std::fixed_point32::{Self, FixedPoint32};
   
   // Add 2 FixedPoint32 numers
