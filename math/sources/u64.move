@@ -1,6 +1,6 @@
-module scmath::u64 {
+module scallop_math::u64 {
   
-  use scmath::u128;
+  use scallop_math::u128;
   
   const U64_MAX: u128 = 18446744073709551615u128;
   

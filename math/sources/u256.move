@@ -1,4 +1,4 @@
-module scmath::u256 {
+module scallop_math::u256 {
 
   const DIVIDE_BY_ZERO: u64 = 1002;
   const CALCULATION_OVERFLOW: u64 = 1003;
