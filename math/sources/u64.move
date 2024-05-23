@@ -1,6 +1,6 @@
-module 0xad013d5fde39e15eabda32b3dbdafd67dac32b798ce63237c27a8f73339b9b6f::u64 {
+module scmath::u64 {
   
-  use math::u128;
+  use scmath::u128;
   
   const U64_MAX: u128 = 18446744073709551615u128;
   
